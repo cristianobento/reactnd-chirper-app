@@ -6,7 +6,7 @@ Most of the commits in this repository correspond to videos in the program.
 
 ## Project Setup
 
-* clone the Project - `git@github.com:udacity/reactnd-chirper-app.git`
+* clone the Project - `git@github.com:cristianobento/reactnd-chirper-app.git`
 * install the dependencies - `npm install`
 
 ## Contributing
